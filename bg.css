@@ -1,0 +1,32 @@
+body
+{
+	background:linear-gradient(to right,#fcba03,#E765CB);
+	text-align: center;
+
+	letter-spacing: .5em;
+	color:rgba(47,45,45,0.8);
+}
+.color1,.color2
+{
+	width:400px;
+	height:40px;}
+
+h1
+{
+	font: 600 4.5em 'Zen Tokyo Zoo', cursive;
+	top:15%;
+	
+	text-transform: uppercase;
+}
+h2
+{
+	font: 600 2.5em sans-serif;
+	letter-spacing: 0.1em;
+
+	text-transform: uppercase;
+    text-align: center;
+}
+h3
+{
+	color:black;
+}
